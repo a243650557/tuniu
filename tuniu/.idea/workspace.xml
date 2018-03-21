@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18059df6-a5bd-47fa-a49d-aaec70306b75" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="jquery-1.12.3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jquery-1.12.3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$</find>
+      <find>strategy</find>
+      <find>data-date</find>
+      <find>var</find>
+      <find>images</find>
+      <find>../</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>let</replace>
+      <replace>/public/</replace>
+      <replace>public/images</replace>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/第三阶段/day03/myfile/server.pro/server.js" />
+        <option value="D:/第三阶段/day03/day03/day0117/server-pro2/server.js" />
+        <option value="D:/第三阶段/day03/template_engine/server.s.js" />
+        <option value="D:/第三阶段/day03/day0117/server-pro3/web-pro/index1.html" />
+        <option value="D:/第三阶段/day03/template/web_pro/index.html" />
+        <option value="D:/第三阶段/day03/template/web_pro/header.html" />
+        <option value="D:/第三阶段/day03/template/server.js" />
+        <option value="D:/第三阶段/day03/day0117/server-pro3/server.js" />
+        <option value="D:/第三阶段/day03/myfile/server-pro3/public/style.css" />
+        <option value="D:/第三阶段/day03/myfile/server-pro3/server.js" />
+        <option value="D:/第三阶段/day03/myfile/server-pro3/web-pro/index1.html" />
+        <option value="D:/第三阶段/day04/day04/day0118/web-server/server.js" />
+        <option value="D:/第三阶段/day04/day04/day0118/web-server/HandleMongo/index.js" />
+        <option value="D:/第三阶段/day04/web_server/public/Bootstrap/bootstrapdist/js/index.js" />
+        <option value="D:/第三阶段/day04/day04/video/day0118/web-server/html/index.html" />
+        <option value="D:/第三阶段/day04/web_server/public/Bootstrap/bootstrapdist/js/index1.js" />
+        <option value="D:/第三阶段/day04/web_server/HandleMongo/StudentModle.js" />
+        <option value="D:/第三阶段/day05/day05/项目开发流程.md" />
+        <option value="D:/第三阶段/day04/web_server/server.js" />
+        <option value="D:/第三阶段/day04/web_server/html/update.html" />
+        <option value="D:/第三阶段/day04/web_server/html/index.html" />
+        <option value="D:/第三阶段/day04/web_server/HandleMongo/index.js" />
+        <option value="D:/第三阶段/day05/day05/day0119/web-project/server.js" />
+        <option value="D:/第三阶段/day05/day05/day0119/web-project/routers/buyer/buyerRouter.js" />
+        <option value="D:/第三阶段/mall/routes/seller/sellerApiRouter.js" />
+        <option value="D:/第三阶段/mall/routes/seller/sellerRouter.js" />
+        <option value="D:/第三阶段/project备份6/server.js" />
+        <option value="D:/第三阶段/mall/views/buyer/HomePod.html" />
+        <option value="D:/第三阶段/mall/views/buyer/Home.html" />
+        <option value="D:/第三阶段/mall/public/stylesheets/style.css" />
+        <option value="D:/第三阶段/mall/public/stylesheets/base.css" />
+        <option value="D:/第三阶段/mall/public/javascripts/index1.js" />
+        <option value="D:/第三阶段/mall/views/buyer/goodslist.html" />
+        <option value="D:/第三阶段/mall/model/goods.js" />
+        <option value="D:/第三阶段/mall/views/buyer/detail.html" />
+        <option value="D:/第三阶段/mall/views/buyer/shopList.html" />
+        <option value="D:/第三阶段/project备份6/html/buyer/register.html" />
+        <option value="D:/第三阶段/mall/views/buyer/啊啊啊.html" />
+        <option value="D:/第三阶段/mall/views/buyer/login.html" />
+        <option value="D:/第三阶段/mall/public/stylesheets/reg.css" />
+        <option value="D:/第三阶段/mall/views/buyer/register.html" />
+        <option value="D:/第三阶段/mall/model/buyer.js" />
+        <option value="D:/第三阶段/mall/public/javascripts/JavaScript.js" />
+        <option value="D:/第三阶段/mall/public/javascripts/login.js" />
+        <option value="D:/第三阶段/mall/views/buyer/login1.html" />
+        <option value="D:/第三阶段/mall/model/seller.js" />
+        <option value="D:/第三阶段/mall/routes/buyer/buyerApiRouter.js" />
+        <option value="D:/第三阶段/mall/server.js" />
+        <option value="D:/第三阶段/mall/routes/buyer/buyerRouter.js" />
+        <option value="D:/第三阶段/mall/views/buyer/layout.html" />
+        <option value="D:/第三阶段/mall/views/seller/layout.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-332" />
+    <option name="width" value="1007" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day0118" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day0118" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day0118" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+              <item name="HandleMongo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="day05" type="462c0819:PsiDirectoryNode" />
+              <item name="day05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="buyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="buyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="buyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+              <item name="buyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="project备份6" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/第三阶段/day06/day06/web-project2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="SCSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\第三阶段\mall" />
+      <recent name="D:\第三阶段\mall\public\stylesheets" />
+      <recent name="D:\第三阶段\mall\public\javascripts" />
+      <recent name="D:\第三阶段\mall\public" />
+      <recent name="D:\第三阶段\mall\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="server.js" working-dir="D:/第三阶段/mall" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18059df6-a5bd-47fa-a49d-aaec70306b75" name="Default" comment="" />
+      <created>1514213394128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514213394128</updated>
+      <workItem from="1514213395626" duration="6049000" />
+      <workItem from="1514642532471" duration="9330000" />
+      <workItem from="1514688280807" duration="19905000" />
+      <workItem from="1514723163049" duration="1295000" />
+      <workItem from="1514726482769" duration="909000" />
+      <workItem from="1514727464638" duration="2136000" />
+      <workItem from="1514729691624" duration="413000" />
+      <workItem from="1514731390165" duration="189000" />
+      <workItem from="1514731780254" duration="7349000" />
+      <workItem from="1514854735713" duration="27256000" />
+      <workItem from="1514892058917" duration="13000" />
+      <workItem from="1514944259216" duration="7464000" />
+      <workItem from="1514957766056" duration="26717000" />
+      <workItem from="1514988060921" duration="192000" />
+      <workItem from="1515029118295" duration="24327000" />
+      <workItem from="1515113913377" duration="35264000" />
+      <workItem from="1515200740727" duration="6695000" />
+      <workItem from="1515209770374" duration="228000" />
+      <workItem from="1515215981681" duration="674000" />
+      <workItem from="1515216694600" duration="289000" />
+      <workItem from="1515217019135" duration="15412000" />
+      <workItem from="1515246628616" duration="26408000" />
+      <workItem from="1515373815060" duration="17052000" />
+      <workItem from="1515402287896" duration="1981000" />
+      <workItem from="1515404492806" duration="9940000" />
+      <workItem from="1515459454893" duration="14752000" />
+      <workItem from="1515485519132" duration="195000" />
+      <workItem from="1515485780121" duration="16157000" />
+      <workItem from="1515512236110" duration="3236000" />
+      <workItem from="1515552004276" duration="11678000" />
+      <workItem from="1515566409117" duration="86000" />
+      <workItem from="1515587369032" duration="38000" />
+      <workItem from="1515639248339" duration="28911000" />
+      <workItem from="1515721837479" duration="25612000" />
+      <workItem from="1515806494937" duration="449000" />
+      <workItem from="1515813289671" duration="573000" />
+      <workItem from="1515822073681" duration="4342000" />
+      <workItem from="1515826593666" duration="5031000" />
+      <workItem from="1515986148391" duration="196000" />
+      <workItem from="1515986450296" duration="19846000" />
+      <workItem from="1516013033718" duration="9721000" />
+      <workItem from="1516023255944" duration="454000" />
+      <workItem from="1516067814765" duration="58164000" />
+      <workItem from="1516239325701" duration="10535000" />
+      <workItem from="1516260752098" duration="1415000" />
+      <workItem from="1516262749637" duration="1738000" />
+      <workItem from="1516264589470" duration="17644000" />
+      <workItem from="1516323083040" duration="25425000" />
+      <workItem from="1516366153561" duration="21569000" />
+      <workItem from="1516432391196" duration="10026000" />
+      <workItem from="1516583255787" duration="337000" />
+      <workItem from="1516583887096" duration="9374000" />
+      <workItem from="1516597128582" duration="22871000" />
+      <workItem from="1521444010144" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="585134000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853404" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32460734" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://D:/第三阶段/project备份6/routers/buyer/mainRouter.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://D:/第三阶段/day04/web_server/HandleMongo/index.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://D:/第三阶段/project备份6/routers/buyer/mainRouter.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/第三阶段/day04/day04/video/day0118/数据库操作.md" />
+    <entry file="file://D:/第三阶段/day04/day04/video/day0118/web-server/HandleMongo/StudentModel.js" />
+    <entry file="file://D:/第三阶段/day04/day04/video/day0118/web-server/HandleMongo/LanguageModel.js" />
+    <entry file="file://D:/第三阶段/project备份6/models/Goods.js" />
+    <entry file="file://D:/第三阶段/project备份6/server.js" />
+    <entry file="file://D:/第三阶段/project备份6/models/User.js" />
+    <entry file="file://D:/第三阶段/day04/day04/video/day0118/web-server/HandleMongo/index.js" />
+    <entry file="file://D:/第三阶段/day02/老师的/day0116/es6讲解/es6-5函数.html" />
+    <entry file="file://D:/第三阶段/mall/public/javascripts/index1.js" />
+    <entry file="file://D:/第三阶段/day04/day04/video/day0118/web-server/HandleMongo/language.js" />
+    <entry file="file://D:/第三阶段/day04/web_server/html/index.html" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/goodslist.html" />
+    <entry file="file://D:/第三阶段/project备份6/routers/buyer/mainRouter.js" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/detail.html" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/shopList.html" />
+    <entry file="file://D:/第三阶段/project备份6/models/Seller.js" />
+    <entry file="file://D:/第三阶段/project备份6/models/Order.js" />
+    <entry file="file://D:/第三阶段/project备份6/html/buyer/goodslist.html" />
+    <entry file="file://D:/第三阶段/project备份6/html/buyer/register.html" />
+    <entry file="file://D:/第三阶段/project备份6/html/buyer/login.html" />
+    <entry file="file://D:/第三阶段/mall/public/javascripts/custom.js" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/啊啊啊.html" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/Home.html" />
+    <entry file="file://D:/第三阶段/mall/public/javascripts/modernizr-custom-v2.7.1.min.js" />
+    <entry file="file://D:/第三阶段/mall/public/javascripts/jquery.easing.min.js" />
+    <entry file="file://D:/第三阶段/mall/public/stylesheets/reg.css" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/login.html" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/register.html" />
+    <entry file="file://D:/第三阶段/day03/day0117/server-pro3/server.js" />
+    <entry file="file://D:/第三阶段/day04/web_server/HandleMongo/index.js" />
+    <entry file="file://D:/第三阶段/day04/day04/day0118/web-server/HandleMongo/index.js" />
+    <entry file="file://D:/第三阶段/day04/web_server/HandleMongo/StudentModle.js" />
+    <entry file="file://D:/第三阶段/project备份6/static/js/login.js" />
+    <entry file="file://D:/第三阶段/day04/web_server/server.js" />
+    <entry file="file://D:/第三阶段/project备份6/routers/buyer/apiRouter.js" />
+    <entry file="file://D:/第三阶段/mall/public/stylesheets/style.css" />
+    <entry file="file://D:/第三阶段/mall/public/template/ue-content/templates/css/style.css" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/login1.html" />
+    <entry file="file://D:/第三阶段/mall/server.js" />
+    <entry file="file://D:/第三阶段/mall/model/seller.js" />
+    <entry file="file://D:/第三阶段/mall/model/goods.js" />
+    <entry file="file://D:/第三阶段/mall/routes/buyer/buyerApiRouter.js" />
+    <entry file="file://D:/第三阶段/mall/routes/buyer/buyerRouter.js" />
+    <entry file="file://D:/第三阶段/mall/public/javascripts/JavaScript.js" />
+    <entry file="file://D:/第三阶段/project备份6/html/seller/layout.html" />
+    <entry file="file://D:/第三阶段/project备份6/html/buyer/layout.html" />
+    <entry file="file://D:/第三阶段/mall/public/javascripts/login.js" />
+    <entry file="file://D:/第三阶段/mall/model/buyer.js" />
+    <entry file="file://D:/第三阶段/mall/views/buyer/layout.html" />
+    <entry file="file://D:/第三阶段/mall/views/seller/layout.html" />
+    <entry file="file://$PROJECT_DIR$/jquery-1.12.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

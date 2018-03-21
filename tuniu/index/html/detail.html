@@ -1,0 +1,265 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>详情页</title>
+
+	<link rel="stylesheet" href="../css/base.css">
+	<link rel="stylesheet" href="../css/index.css">
+	<link rel="stylesheet" href="../css/iconfont.css" />
+	<link rel="stylesheet" href="../css/calendar-pro.css" />
+	<link rel="stylesheet" href="../css/details.css">
+
+	<script src="../js/jquery-2.1.4.min.js"></script>
+	<script src="../js/jquery.cookie.js"></script>
+	<script src="../js/calendar-pro.js"></script>
+	<script src="../js/details.js"></script>
+	<script src="../js/jquery.fly.min.js"></script>
+
+</head>
+
+<body>
+<div class="detail_header">
+
+</div>
+<div class="main_body">
+	<div class="product_body_inner">
+		<div class="crumb">
+			<a href="#">出境旅游 </a> > 	<a href="#">亚洲旅游 </a> > <a href="#"> 泰国旅游 </a> > <a href="#">普吉府旅游 </a> > <a href="#">普吉旅游 </a>
+		</div>
+		<div class="resource">
+			<h1 class="resource_title"></h1>
+			<div class="resource_body clearfix">
+				<div class="resource_body_left fl">
+					<div class="resource_gallery">
+						<div class="resource_display">
+                            <div class="resource_display_img">
+								<!--<img src="../images/details/1-1.jpg" height="280" width="500"/>-->
+							</div>
+							<div class="middleArea">
+
+							</div>
+                        </div>
+						<div class="resource_nav">
+							<ul class="resource_nav_ul clearfix">
+								<!--<li><img src="../images/details/1-1.jpg" height="280" width="500"/></li>-->
+								<!--<li><img src="../images/details/1-2.jpg" height="280" width="500"/></li>-->
+								<!--<li><img src="../images/details/1-3.jpg" height="280" width="500"/></li>-->
+								<!--<li><img src="../images/details/1-4.jpg" height="280" width="500"/></li>-->
+							</ul>
+						</div>
+						<div class="magnifier">
+							<!--<img src="../images/details/1-1.jpg" height="280" width="500"/>-->
+						</div>
+					</div>
+					<div class="calendar-box demo-box calendar-box2"></div>
+					<button id="btn">获取选中日期值</button>
+				</div>
+				<div class="resource_body_right fl">
+					<div class="resource_details">
+						<div class="slogan">
+							<img src="../images/11111.jpg" height="34" width="664"/>
+						</div>
+						<div class="resource_section">
+							<div class="resource_top clearfix">
+								<div class="resource_top_left fl">
+									<span>促销价：</span>
+									<i class="price_unit">$</i>
+									<span class="price_num"></span>
+									<i class="price_txt_start">起</i>
+									<span class="discount">
+									<img src="../images/price.jpg" height="39" width="69"/>
+									</span>
+									<span class="price_des">起价说明</span>
+								</div>
+								<div class="resource_top_right fl">
+									<div class="price_satis fl">
+										<span>满意度</span>
+										<span class="satisfactionNum"></span>
+									</div>
+									<div class="resource_people fl">
+										<div class="people1">
+											<span>出游人数:</span>
+											<i>1189</i>
+										</div>
+										<div class="people2">
+											<span>点评人数:</span>
+											<i>21</i>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="resource_top_left qjsm ">
+								<span>起价说明：</span>
+								<span class="Installment">￥977.00起+￥328.00*12期，4种分期
+								</span>
+								<span class="price_des">介绍>></span>
+							</div>
+
+						</div>
+						<div class="resource_section resource_section2">
+							<div class="resource_top clearfix">
+								<div class="resource_top_left resource_info fl">
+									<span>优惠活动：</span>
+									<i class="price_txt_start"> 1月狂惠立减500元/人</i>
+
+									<div class="resource_top_left  resource_info qjsm clearfix ">
+										<div class="fl qjsm1">领券活动：</div>
+										<div class="coupon_content fl">
+											<div class="resource_coupon_list ">
+												<a href="#"><span>400元</span></a>
+												<a href="#"><span>600元</span></a>
+												<a href="#"><span>800元</span></a>
+											</div>
+										</div>
+									</div>
+
+									<div class="resource_top_left  resource_info qjsm clearfix ">
+
+										<div class="fl">特色服务：</div>
+										<div class="coupon_content fl">
+											<div class="resource_coupon_list ">
+												<b><img src="../images/images/123_05.jpg" height="18"
+																 width="67"/></b>
+												<b><img src="../images/images/123_07.jpg" height="18"
+																 width="78"/></b>
+												<b><img src="../images/images/123_09.jpg" height="18"
+																	   width="67"/></b>
+
+
+
+											</div>
+										</div>
+
+
+									</div>
+
+									<div class="resource_top_left   qjsm cfcs clearfix ">
+										<span>出发城市：</span>
+										<i class="price_txt_start"> 南京成团</i>
+										<div class="travel_date_box clearfix">
+											<div class="fl cfrq">出发日期：</div>
+											<div class="fl travel_date" id="end">
+												<span class="cfrq1">请选择出发日期</span>
+												<div class="calendar-box demo-box calendar-box1"></div>
+											</div>
+										</div>
+										<div class="totalpeople clearfix">
+											<div class="fl">出游人数：</div>
+											<div class="amount_box1 fl">
+												<div class="amount_box">
+													<a href="javascript:;" class="reduce reSty">-</a>
+													<input type="text" value="1" class="sum">
+													<a href="javascript:;" class="plus">+</a>
+												</div>
+											</div>
+
+										</div>
+										<ul class="btn clearfix">
+
+											<li class="li_second">
+											<input class="btn2 fl" type="button" value = "加入购物车">
+											</li>
+											<li class="li_third">
+												<img src="../images/details/111_03.jpg" alt="">
+											</li>
+											<li>
+												<img src="../images/details/111_06.jpg" alt="">
+												收藏
+											</li>
+											<li>
+												<img src="../images/details/111_09.jpg" alt="">
+												在线咨询
+											</li>
+											<li class="linkCart">
+												<img src="../images/details/111_11.jpg" alt="">
+												查看购物车
+											</li>
+											<li class="last">
+												<div class="no_order clearfix">
+													<div class="immg fl">
+														<img src="../images/no-login-icon.png" alt="">
+													</div>
+													<div class="no_order_r fl">
+														<span class="no_order_remind">成功添加到购物车</span>
+														<a href="javascript:;" class="login toCart">查看购物车</a>
+														<a href="javasript:;" class="toIndex">继续购物 ></a>
+													</div>
+												</div>
+											</li>
+										</ul>
+
+									</div>
+
+
+											</div>
+										</div>
+
+
+									</div>
+
+
+					</div>
+							</div>
+					</div>
+			</div>
+	</div>
+</div>
+<!--右侧固定导航开始-->
+<div class="rightNav">
+	<ul class="rightNav_list">
+		<li class="rightNav_li">
+			<img src="../images/images2/Cii-s1pEaQuINdN9AAAkBOhmG6QAABa-AKEaqsAACQc56.jpg" height="148"
+				 width="40"/>
+			<div class="subLi subLi1">
+				<img src="../images/images2/Cii-tFpEaQuIHgmKAACJsbUPs6MAABa-AKEjscAAInJ82.jpg" height="141"
+					 width="215"/>
+			</div>
+		</li>
+		<li class="rightSecond rightNav_li">
+			<ul class="second_ul">
+				<li>
+					<div class="subLi lzy1">
+						<img src="../images/images2/Cii_J1nIdqGIV0mQAACdnbjvt44AABkXQLrcZgAAJ21051.png"
+							 height="310" width="274"/>
+					</div>
+				</li>
+				<li class="comm comm_login">
+					<div class="aleftNav" >手机登录</div>
+				</li>
+				<li class="comm">
+					<div class="aleftNav" >我的关注</div>
+				</li>
+				<li class="comm">
+					<div class="aleftNav" >我的订单</div>
+				</li>
+				<li class="comm">
+					<div class="aleftNav" >我的礼券</div>
+				</li>
+				<li class="comm">
+					<div class="aleftNav" >消息提醒</div>
+				</li>
+
+			</ul>
+		</li>
+		<li class="third rightNav_li">
+			<ul class="third_ul">
+				<li class="comm">
+					<div class="aleftNav" >问卷调查</div>
+				</li >
+				<li class="comm">
+					<div class="aleftNav" >意见建议</div>
+				</li>
+				<li class="comm returnTop">
+					<div class="aleftNav" >返回顶部</div>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+
+
+</body>
+
+</html>

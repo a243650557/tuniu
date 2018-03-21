@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{css-DefinitelyTyped, es6-collections-DefinitelyTyped, express-DefinitelyTyped, mongoose-DefinitelyTyped, node, node-DefinitelyTyped, swig-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+    <includedPredefinedLibrary name="WebGL" />
+    <excludedPredefinedLibrary name="第三阶段/day03/myfile/server-pro3/node_modules" />
+    <excludedPredefinedLibrary name="第三阶段/day03/myfile/server.pro/node_modules" />
+    <excludedPredefinedLibrary name="第三阶段/day03/server/server_pro/node_modules" />
+    <excludedPredefinedLibrary name="第三阶段/day03/template/node_modules" />
+    <excludedPredefinedLibrary name="第三阶段/day04/web_server/node_modules" />
+  </component>
+</project>

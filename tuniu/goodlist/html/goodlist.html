@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>途牛商品列表</title>
+</head>
+<link rel="stylesheet" href="../css/base.css">
+<link rel="stylesheet" href="../css/maoyan.css">
+<link rel="stylesheet" href="../css/index.css">
+
+<script src="../js/jquery-1.12.3.js"></script>
+<script src="../js/goodlist.js"></script>
+<body>
+<div class="top">
+    <div class="logo">
+        <img src="../images/logo.png"/>
+    </div>
+    <a href="../../index/html/index.html">首页</a>
+    <a href="#">跟团游</a>
+    <a href="#">自由行</a>
+    <a href="#">邮轮</a>
+</div>
+<div class="head">
+    <a href="#">正在热销</a>
+    <a href="#">即将启程</a>
+    <a href="#">经典行程</a>
+</div> <!--head 结束-->
+<div class="checkBox w990">
+    <div class="box1">
+        <i>类型：</i>
+        <span class="active">全部</span>
+        <span>跟团游</span>
+        <span>自由行</span>
+        <span>邮轮</span>
+    </div>
+    <div class="box2">
+        <i>区域：</i>
+        <span class="active">全部</span>
+        <span>大陆</span>
+        <span>欧洲</span>
+        <span>美洲</span>
+        <span>日本</span>
+        <span>泰国</span>
+        <span>非洲</span>
+    </div>
+</div>
+<div class="paixu w990">
+    <input class="activeBox" type="radio" name="rel" id="hot" checked="checked" />
+    <span id="">按满意度排序</span>
+    <input type="radio" name="rel" id="" value="" />
+    <span id="">按价格排序</span>
+</div>
+<div class="wrap w990">
+    <ul id="list" class="layer_body">
+    </ul>
+</div>
+</body>
+</html>
